@@ -1,10 +1,14 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+A project which will make everyone Geek
 
 ## What it does
 
-FEATURES PLACEHOLDER
+It's a self learning portal
+
+- Via Tamil
+- Experts advice
+
 
 ## Getting started
 
